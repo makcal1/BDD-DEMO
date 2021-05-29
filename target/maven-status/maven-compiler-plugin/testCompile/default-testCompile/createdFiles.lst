@@ -1,0 +1,6 @@
+StepsForHooks\HooksDemoSteps.class
+StepsForHooks\TestRunnerForHooks.class
+pages\LoginPage.class
+pagefactory\HomePage_PF.class
+pagefactory\LoginPage_PF.class
+StepDefinitions\GoogleSearchSteps.class
